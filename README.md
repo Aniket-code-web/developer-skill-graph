@@ -41,3 +41,11 @@
 ## Future Improvements
 
 ## Author
+
+## 🎥 Demo Video
+
+A complete walkthrough of the Developer Skill Graph application, including
+developer profiles, skills, search, relationships, and interactive graph
+visualization.
+
+[▶️ Watch the Developer Skill Graph Demo](demo/developer-skill-graph-demo.mp4)

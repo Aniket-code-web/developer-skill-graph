@@ -707,7 +707,7 @@ export default function Navbar() {
                         <div className="hidden text-right sm:block">
 
                             <p className="text-sm font-medium text-white">
-                                Aniket Muni
+                                Ayush Panda
                             </p>
 
                             <p className="text-xs text-slate-500">
@@ -731,7 +731,7 @@ export default function Navbar() {
                                 font-bold
                             "
                         >
-                            AM
+                            AP
                         </div>
 
                     </div>

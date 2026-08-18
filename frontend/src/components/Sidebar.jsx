@@ -195,7 +195,7 @@ export default function Sidebar() {
 
                         <div className="flex h-9 w-9 items-center justify-center rounded-full bg-gradient-to-br from-violet-500 to-indigo-500 text-sm font-semibold">
 
-                            AM
+                            AP
 
                         </div>
 
@@ -204,7 +204,7 @@ export default function Sidebar() {
 
                             <p className="truncate text-sm font-medium text-white">
 
-                                Aniket Muni
+                                Ayush Panda
 
                             </p>
 
